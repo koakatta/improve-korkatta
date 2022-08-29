@@ -1,4 +1,5 @@
 # improve-korkatta
 ## plan
 read about property in python cookbook\
-correct quiz 0
+correct quiz 0\
+read about wrapper
